@@ -1,6 +1,3 @@
--- Project ID- PTID-CDA-APR-25-447
--- Project Name - PRSQL-02-Medical Data History
-
 use project_medical_data_history;
 select * from patients;
 -- 1.Show first name, last name, and gender of patients who's gender is 'M'
